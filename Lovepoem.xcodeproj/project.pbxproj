@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		18FB816B1EEEC4B50016AEDD /* Hi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hi.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		18FB816B1EEEC4B50016AEDD /* Lovepoem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lovepoem.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18FB816E1EEEC4B50016AEDD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18FB81701EEEC4B50016AEDD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		18FB81731EEEC4B50016AEDD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		18FB816C1EEEC4B50016AEDD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				18FB816B1EEEC4B50016AEDD /* Hi.app */,
+				18FB816B1EEEC4B50016AEDD /* Lovepoem.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		18FB816A1EEEC4B50016AEDD /* Hi */ = {
+		18FB816A1EEEC4B50016AEDD /* Lovepoem */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 18FB817D1EEEC4B50016AEDD /* Build configuration list for PBXNativeTarget "Hi" */;
+			buildConfigurationList = 18FB817D1EEEC4B50016AEDD /* Build configuration list for PBXNativeTarget "Lovepoem" */;
 			buildPhases = (
 				18FB81671EEEC4B50016AEDD /* Sources */,
 				18FB81681EEEC4B50016AEDD /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = Hi;
+			name = Lovepoem;
 			productName = Hi;
-			productReference = 18FB816B1EEEC4B50016AEDD /* Hi.app */;
+			productReference = 18FB816B1EEEC4B50016AEDD /* Lovepoem.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 18FB81661EEEC4B50016AEDD /* Build configuration list for PBXProject "Hi" */;
+			buildConfigurationList = 18FB81661EEEC4B50016AEDD /* Build configuration list for PBXProject "Lovepoem" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				18FB816A1EEEC4B50016AEDD /* Hi */,
+				18FB816A1EEEC4B50016AEDD /* Lovepoem */,
 			);
 		};
 /* End PBXProject section */
@@ -265,6 +265,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = hcy.Hi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -277,13 +278,14 @@
 				PRODUCT_BUNDLE_IDENTIFIER = hcy.Hi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		18FB81661EEEC4B50016AEDD /* Build configuration list for PBXProject "Hi" */ = {
+		18FB81661EEEC4B50016AEDD /* Build configuration list for PBXProject "Lovepoem" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18FB817B1EEEC4B50016AEDD /* Debug */,
@@ -292,7 +294,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		18FB817D1EEEC4B50016AEDD /* Build configuration list for PBXNativeTarget "Hi" */ = {
+		18FB817D1EEEC4B50016AEDD /* Build configuration list for PBXNativeTarget "Lovepoem" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18FB817E1EEEC4B50016AEDD /* Debug */,
